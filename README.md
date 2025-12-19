@@ -13,3 +13,6 @@ return {
   },
 }
 ```
+
+# Preview
+<img width="948" height="1035" alt="image" src="https://github.com/user-attachments/assets/5c1c8110-8648-472d-a6c3-59845cbd1a04" />
