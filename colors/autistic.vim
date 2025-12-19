@@ -5,7 +5,7 @@ if version > 580
         syntax reset
     endif
 endif
-let g:colors_name = "sillyazazel"
+let g:colors_name = "autistic"
 
 if has("gui_running") || &t_Co == 256
     hi Normal        cterm=NONE ctermfg=250 ctermbg=16  gui=NONE guifg=#bcbcbc guibg=#000000
