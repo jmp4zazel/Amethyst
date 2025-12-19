@@ -8,7 +8,7 @@ Put this inside your `colorscheme.lua`:
 ```lua
 return {
   {
-    "jmp4zazel/silly",
+    "jmp4zazel/autistic",
     lazy = false,
     priority = 1000,
     config = function()
