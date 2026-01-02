@@ -6,7 +6,7 @@ Put this inside your `colorscheme.lua`:
 ```lua
 return {
   {
-    "jmp4zazel/sillyazazel",
+    "jmp4zazel/Amethyst",
     lazy = false,
     priority = 1000,
     config = function()
