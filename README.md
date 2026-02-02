@@ -6,12 +6,12 @@ Put this inside your `colorscheme.lua`:
 ```lua
 return {
   {
-    "jmp4zazel/Amethyst",
+    "grit8086/SillyCat",
     lazy = false,
     priority = 1000,
     config = function()
       vim.opt.termguicolors = true
-      vim.cmd("colorscheme Amethyst")
+      vim.cmd("colorscheme SillyCat")
     end,
   },
 }
