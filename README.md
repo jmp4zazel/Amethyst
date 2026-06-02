@@ -6,12 +6,12 @@ Put this inside your `colorscheme.lua`:
 ```lua
 return {
   {
-    "grit8086/SillyCat",
+    "grit8086/GigglyCat",
     lazy = false,
     priority = 1000,
     config = function()
       vim.opt.termguicolors = true
-      vim.cmd("colorscheme SillyCat")
+      vim.cmd("colorscheme GigglyCat")
     end,
   },
 }
